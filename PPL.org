@@ -1,0 +1,224 @@
+* Push/Pull/Legs
+** Legs (Quads and Calves Focus)
+*** Barbell Back Squats
+- Sets: 4
+- Reps: 8
+- Intensity: 0
+- Rest Time: 60
+- Notes: 8-10 reps
+*** Leg Press
+- Sets: 4
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+*** Walking Lunges
+- Sets: 3
+- Reps: 12
+- Intensity: 0
+- Rest Time: 60
+- Notes: 12 reps per leg
+*** Leg Extensions
+- Sets: 3
+- Reps: 12
+- Intensity: 0
+- Rest Time: 60
+- Notes: 12-15 reps
+*** Standing Calf Raises
+- Sets: 4
+- Reps: 12
+- Intensity: 0
+- Rest Time: 60
+- Notes: 12-15 reps
+*** Seated Calf Raises
+- Sets: 4
+- Reps: 12
+- Intensity: 0
+- Rest Time: 60
+- Notes: 12-15 reps
+** Pull (Back and Biceps Focus)
+*** Pull-ups or Assisted Pull-ups
+- Sets: 4
+- Reps: 8
+- Intensity: 0
+- Rest Time: 60
+- Notes: 8-10 reps
+*** Barbell Bent Over Rows
+- Sets: 4
+- Reps: 8
+- Intensity: 0
+- Rest Time: 60
+- Notes: 8-10 reps
+*** Seated Cable Rows
+- Sets: 4
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+*** Lat Pulldowns
+- Sets: 3
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+*** Barbell Bicep Curls
+- Sets: 3
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+*** Hammer Curls
+- Sets: 3
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+** Push (Chest, Shoulders, and Triceps Focus)
+*** Barbell Bench Press
+- Sets: 4
+- Reps: 8
+- Intensity: 0
+- Rest Time: 60
+- Notes: 8-10 reps
+*** Incline Dumbbell Press
+- Sets: 4
+- Reps: 8
+- Intensity: 0
+- Rest Time: 60
+- Notes: 8-10 reps
+*** Dumbbell Shoulder Press
+- Sets: 4
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+*** Lateral Raises
+- Sets: 3
+- Reps: 12
+- Intensity: 0
+- Rest Time: 60
+- Notes: 12-15 reps
+*** Skull Crushers
+- Sets: 3
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+*** Tricep Pushdowns
+- Sets: 3
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+** Legs (Hamstrings and Glutes Focus)
+*** Deadlift
+- Sets: 4
+- Reps: 6
+- Intensity: 0
+- Rest Time: 60
+- Notes: 6-8 reps
+*** Romanian Deadlift
+- Sets: 4
+- Reps: 8
+- Intensity: 0
+- Rest Time: 60
+- Notes: 8-10 reps
+*** Bulgarian Split Squats
+- Sets: 3
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps per leg
+*** Lying Leg Curls
+- Sets: 3
+- Reps: 12
+- Intensity: 0
+- Rest Time: 60
+- Notes: 12-15 reps
+*** Hip Thrusts
+- Sets: 3
+- Reps: 12
+- Intensity: 0
+- Rest Time: 60
+- Notes: 12-15 reps
+*** Glute Kickbacks
+- Sets: 3
+- Reps: 12
+- Intensity: 0
+- Rest Time: 60
+- Notes: 12-15 reps
+** Pull (Back and Biceps Focus, Variation)
+*** Chin-ups or Assisted Chin-ups
+- Sets: 4
+- Reps: 8
+- Intensity: 0
+- Rest Time: 60
+- Notes: 8-10 reps
+*** T-Bar Rows
+- Sets: 4
+- Reps: 8
+- Intensity: 0
+- Rest Time: 60
+- Notes: 8-10 reps
+*** Single-arm Dumbbell Rows
+- Sets: 4
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+*** Straight Arm Pulldowns
+- Sets: 3
+- Reps: 12
+- Intensity: 0
+- Rest Time: 60
+- Notes: 12-15 reps
+*** Incline Dumbbell Bicep Curls
+- Sets: 3
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+*** Concentration Curls
+- Sets: 3
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+** Push (Chest, Shoulders, and Triceps Focus, Variation)
+*** Dumbbell Bench Press
+- Sets: 4
+- Reps: 8
+- Intensity: 0
+- Rest Time: 60
+- Notes: 8-10 reps
+*** Cable Chest Fly
+- Sets: 4
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+*** Seated Military Press
+- Sets: 4
+- Reps: 8
+- Intensity: 0
+- Rest Time: 60
+- Notes: 8-10 reps
+*** Face Pulls
+- Sets: 3
+- Reps: 12
+- Intensity: 0
+- Rest Time: 60
+- Notes: 12-15 reps
+*** Close Grip Bench Press
+- Sets: 3
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+*** Overhead Tricep Extension
+- Sets: 3
+- Reps: 10
+- Intensity: 0
+- Rest Time: 60
+- Notes: 10-12 reps
+** Rest

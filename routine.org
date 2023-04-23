@@ -1,0 +1,58 @@
+* Push/Pull/Legs
+** Chest and Back
+*** Bench Press
+- Sets: 3
+- Reps: 10
+- Intensity: 100%
+- Rest Time: 60
+- Notes: No spotter
+*** Squat
+- Sets: 3
+- Reps: 10
+- Intensity: 100%
+- Rest Time: 60
+- Notes: No spotter
+*** Deadlift
+- Sets: 3
+- Reps: 10
+- Intensity: 100%
+- Rest Time: 60
+- Notes: No spotter
+*** Overhead Press
+- Sets: 3
+- Reps: 10
+- Intensity: 100%
+- Rest Time: 60
+- Notes: No spotter
+** Legs
+*** Squat
+- Sets: 3
+- Reps: 10
+- Intensity: 100%
+- Rest Time: 60
+- Notes: No spotter
+*** Deadlift
+- Sets: 3
+- Reps: 10
+- Intensity: 100%
+- Rest Time: 60
+- Notes: No spotter
+*** Overhead Press
+- Sets: 3
+- Reps: 10
+- Intensity: 100%
+- Rest Time: 60
+- Notes: No spotter
+** Arms
+*** Bench Press
+- Sets: 3
+- Reps: 10
+- Intensity: 100%
+- Rest Time: 60
+- Notes: No spotter
+*** Overhead Press
+- Sets: 3
+- Reps: 10
+- Intensity: 100%
+- Rest Time: 60
+- Notes: No spotter
